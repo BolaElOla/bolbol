@@ -95,7 +95,7 @@ Make sure everything is on `$PATH` (usually `$(go env GOPATH)/bin`, `~/.cargo/bi
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/bolbol.git
+git clone https://github.com/BolaElOla/bolbol.git
 cd bolbol
 chmod +x bolbol.sh
 ```
