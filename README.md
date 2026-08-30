@@ -148,4 +148,4 @@ Built by **Belal Mohamed**.
 
 ## License
 
-No license file included yet — add one before you make the repo public if you want to control how others can use/modify it. MIT is the usual pick for a tool like this if you want it wide open (do whatever, just don't sue me); GPLv3 if you want forks to stay open source too.
+No license — if you want to use it mention my name
