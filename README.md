@@ -1,4 +1,4 @@
-<img width="938" height="930" alt="image" src="https://github.com/user-attachments/assets/367908c4-0cf8-4fd6-8113-96db72cd657f" />
+<img width="855" height="276" alt="image" src="https://github.com/user-attachments/assets/8d0d8fbb-437d-40af-a216-81174e3a746c" />
 
 ```
 recon automation -- subs . live hosts . urls . secrets
